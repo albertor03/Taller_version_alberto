@@ -1,0 +1,10 @@
+{
+    "cartTitle": "#cart_title",
+    "stepText": ".step_current > span",
+    "proceedButton": ".cart_navigation > .button > span",
+    "agreeCheckBox": "#cgv",
+    "payBankWireMethod": ".bankwire",
+    "payCheckMethod": ".cheque",
+    "payMethodTitle": ".page-subheading",
+    "paymentCompleteText": ".cheque-indent > .dark"
+}

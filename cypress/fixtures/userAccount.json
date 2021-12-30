@@ -1,0 +1,8 @@
+{
+    "userAccountTitle": ".page-heading",
+    "orderHistoryButton": ":nth-child(1) > .myaccount-link-list > :nth-child(1) > a > span",
+    "myCreditSlipsButton": ".myaccount-link-list > :nth-child(2) > a > span",
+    "myAddressButton": ".myaccount-link-list > :nth-child(3) > a > span",
+    "myPersonalInformationButton": ".myaccount-link-list > :nth-child(4) > a > span",
+    "myWishListButton": ".lnk_wishlist > a > span"
+}

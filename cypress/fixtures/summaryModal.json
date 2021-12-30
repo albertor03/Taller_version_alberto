@@ -1,0 +1,8 @@
+{
+    "confirmText": ".layer_cart_product > h2",
+    "productNameText": "#layer_cart_product_title",
+    "productPriceText": ".ajax_block_products_total",
+    "proccedToCheckoutButton": ".button-medium > span",
+    "continueButton": ".continue > span",
+    "closeWindows": "span[title='Close window']"
+}

@@ -1,0 +1,4 @@
+{
+    "addCartButton": "#add_to_cart",
+    "productName": "h1[itemprop='name']"
+}

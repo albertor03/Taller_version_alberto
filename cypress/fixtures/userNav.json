@@ -1,0 +1,5 @@
+{
+    "contactItemNav": "#contact-link > a", 
+    "logoutItemNav": ".logout",
+    "accountItemNav": ".account > span"
+}

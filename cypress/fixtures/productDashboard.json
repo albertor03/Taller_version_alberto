@@ -1,0 +1,6 @@
+{
+    "title": ".cat-name",
+    "productName": ".product_list .product-name",
+    "addCartButton": "a[title='Add to cart']",
+    "viewShoppingCart": "[title='View my shopping cart']"
+}
